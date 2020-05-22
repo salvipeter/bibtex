@@ -1,0 +1,6 @@
+- Google Scholar [automatic, but data should be checked]
+- ORCID [using bib]
+- MTMT [using DOI, when available]
+- 3D Geometry Group Homepage
+- Personal Homepage
+- CV / LinkedIn / ...
